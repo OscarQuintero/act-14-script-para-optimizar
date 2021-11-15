@@ -9,4 +9,4 @@ Oscar Quintero
 Archivo principal del proyecto:
 
 --Pendiente--
-[script-optimizacion]()
+-[script-optimizacion.bat](https://github.com/OscarQuintero/act-14-script-para-optimizar/blob/main/script-optimizacion.bat)
