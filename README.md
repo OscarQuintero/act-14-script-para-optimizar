@@ -1,2 +1,12 @@
-# act-14-script-para-optimizar
-Actividad 14: Seminario de Sistemas Operativos
+# Script para Optimizar
+
+## Actividad 14
+### Seminario de Sistemas Operativos
+
+Oscar Quintero 
+2021B
+
+Archivo principal del proyecto:
+
+--Pendiente--
+[script-optimizacion]()
