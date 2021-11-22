@@ -1,7 +1,8 @@
 @ECHO OFF
 
+CLS
 TITLE Oscar Quintero - Seminario SOs 2021B
-ECHO Iniciando Flujo de Trabajo Escolar
+ECHO Iniciando Flujo de Clases Online
 
 ECHO Revisiones de rutina de la Computadora
 POWERCFG /batteryreport output C:\estado-bateria.html
